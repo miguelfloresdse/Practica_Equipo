@@ -13,3 +13,10 @@ printf("¡Hola mundo!\n");
 division();
 return 0;
 }
+
+//Esto está mal hecho JL!!!!
+//							 oooO 
+//                          (....)     Oooo
+//                           ...(     (....)
+//                            ._)      )../
+//                                     (_/ 
